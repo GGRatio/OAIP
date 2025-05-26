@@ -1,0 +1,3 @@
+﻿  Task3.cpp
+C:\Users\burbl\Desktop\ОАИП\семестр 2\LAB 3\LAB 3\Task3\Task3.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Task3.vcxproj -> C:\Users\burbl\Desktop\ОАИП\семестр 2\LAB 3\LAB 3\x64\Debug\Task3.exe
