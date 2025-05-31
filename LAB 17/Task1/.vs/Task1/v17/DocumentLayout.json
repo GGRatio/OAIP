@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|solutionrelative:Task1\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|solutionrelative:Task1\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\OAP_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF092597-60AF-4A03-AC2D-8708885C17F3}|Task1\\Task1.vcxproj|solutionrelative:Task1\\OAP_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.h",
+              "RelativeDocumentMoniker": "Task1\\List.h",
+              "ToolTip": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.h",
+              "RelativeToolTip": "Task1\\List.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T22:11:40.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cpp",
+              "DocumentMoniker": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.cpp",
+              "RelativeDocumentMoniker": "Task1\\List.cpp",
+              "ToolTip": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\List.cpp",
+              "RelativeToolTip": "Task1\\List.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T22:11:07.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OAP_List.cpp",
+              "DocumentMoniker": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\OAP_List.cpp",
+              "RelativeDocumentMoniker": "Task1\\OAP_List.cpp",
+              "ToolTip": "C:\\Users\\burbl\\Desktop\\\u041E\u0410\u0418\u041F\\SEM-2\\LAB 17\\Task1\\Task1\\OAP_List.cpp",
+              "RelativeToolTip": "Task1\\OAP_List.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T22:10:12.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
